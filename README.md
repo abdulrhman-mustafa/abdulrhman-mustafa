@@ -11,37 +11,38 @@
 
 <h2 align="left">About me</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-<p align="left">
-💻 I’m a highly motivated <strong>Front-End Developer</strong> focused on building scalable, high-performance, and visually polished web applications with real-world impact.<br><br>
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  
+  <!-- النص -->
+  <p align="left" style="flex: 1; min-width: 300px;">
+    💻 I’m a highly motivated <strong>Front-End Developer</strong> focused on building scalable, high-performance, and visually polished web applications with real-world impact.<br><br>
 
-🎨 I specialize in crafting <strong>modern, responsive, and accessible user interfaces</strong>, turning complex ideas and designs into clean, maintainable, and production-ready code.<br><br>
+    🎨 I specialize in crafting <strong>modern, responsive, and accessible user interfaces</strong>, turning complex ideas and designs into clean, maintainable, and production-ready code.<br><br>
 
-⚛️ <strong>My core front-end stack includes:</strong><br>
-React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, SCSS, Redux Toolkit, React Query, and modern UI component libraries.<br><br>
+    ⚛️ <strong>My core front-end stack includes:</strong><br>
+    React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, SCSS, Redux Toolkit, React Query, and modern UI component libraries.<br><br>
 
-🔗 <strong>I have strong experience with:</strong><br>
-REST APIs, GraphQL, authentication flows, form validation, client-side routing, and state-driven UI architecture.<br><br>
+    🔗 <strong>I have strong experience with:</strong><br>
+    REST APIs, GraphQL, authentication flows, form validation, client-side routing, and state-driven UI architecture.<br><br>
 
-⚡ <strong>I focus heavily on performance and quality, including:</strong><br>
-• Component-based and reusable architecture<br>
-• Clean code & best practices<br>
-• SEO optimization using Next.js<br>
-• Responsive design & cross-browser compatibility<br>
-• Animations and micro-interactions for better UX<br><br>
+    ⚡ <strong>I focus heavily on performance and quality, including:</strong><br>
+    • Component-based and reusable architecture<br>
+    • Clean code & best practices<br>
+    • SEO optimization using Next.js<br>
+    • Responsive design & cross-browser compatibility<br>
+    • Animations and micro-interactions for better UX<br><br>
 
-🧠 I strongly believe in <strong>learning by building</strong>. I’ve worked on multiple real-world projects such as dashboards, landing pages, and full-featured web platforms, collaborating closely with designers and backend developers.<br><br>
+    🧠 I strongly believe in <strong>learning by building</strong>. I’ve worked on multiple real-world projects such as dashboards, landing pages, and full-featured web platforms, collaborating closely with designers and backend developers.<br><br>
 
-📈 I’m continuously improving my technical skills, problem-solving mindset, and English communication, aiming to grow into a top-level front-end engineer.<br><br>
+    📈 I’m continuously improving my technical skills, problem-solving mindset, and English communication, aiming to grow into a top-level front-end engineer.<br><br>
 
-🤝 <strong>Open to remote opportunities, freelance work, and impactful collaborations</strong> where I can contribute, grow, and build products users truly love.
-</p>
+    🤝 <strong>Open to remote opportunities, freelance work, and impactful collaborations</strong> where I can contribute, grow, and build products users truly love.
+  </p>
 
-
-
-<div style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center;">
-  <img height="200" src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53f8e248ef81bebbffc637188d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
-</div>
+  <!-- الصورة -->
+  <div style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center;">
+    <img height="200" src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53f8e248ef81bebbffc637188d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
+  </div>
 
 </div>
 
