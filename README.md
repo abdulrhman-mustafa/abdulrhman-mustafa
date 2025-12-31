@@ -8,14 +8,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Front+End+Developer.">
 </p>
----
 
 <h2 align="left">About me</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-	
-
-
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 <p align="left">
 💻 I’m a highly motivated <strong>Front-End Developer</strong> focused on building scalable, high-performance, and visually polished web applications with real-world impact.<br><br>
 
