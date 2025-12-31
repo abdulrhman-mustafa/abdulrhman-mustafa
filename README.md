@@ -2,7 +2,7 @@
 <h1  align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 	
 </h1>
-<p align="center">my name is Abdulrahman Mustafa</p>
+<h3 align="center">my name is Abdulrahman Mustafa</h3>
 
   <!-- Typing Text -->
 <p align="center">
