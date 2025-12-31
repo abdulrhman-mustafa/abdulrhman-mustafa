@@ -12,6 +12,10 @@
 
 <h2 align="left">About me</h2>
 
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+	
+
+
 <p align="left">
 💻 I’m a highly motivated <strong>Front-End Developer</strong> focused on building scalable, high-performance, and visually polished web applications with real-world impact.<br><br>
 
@@ -41,6 +45,8 @@ REST APIs, GraphQL, authentication flows, form validation, client-side routing, 
 
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53f8e248ef81bebbffc637188d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
+</div>
+
 </div>
 
 
