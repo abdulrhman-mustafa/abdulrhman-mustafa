@@ -96,11 +96,3 @@ REST APIs, GraphQL, authentication flows, form validation, client-side routing, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </div>
 
----
-
-<h2 align="left">Connect with me</h2>
-
-<p align="left">
-  <a href="[https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/abdulrahman2910/)" target="_blank">LinkedIn</a> •
-  <!-- <a href="https://YOUR-PORTFOLIO.com" target="_blank">Portfolio</a> -->
-</p>
