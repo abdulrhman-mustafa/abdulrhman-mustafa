@@ -23,61 +23,61 @@
 <h4 align="left">Front-End</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
 </div>
 
 <h4 align="left">Also familiar with</h4>
 <div align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40"/>
 </div>
 
 <h4 align="left">Tools & Workflow</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.simpleicons.org/vercel/000000" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40"/>
-  <img width="12"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </div>
 
