@@ -56,8 +56,8 @@ REST APIs, GraphQL, authentication flows, form validation, client-side routing, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
 </div>
 
 <h4 align="left">Also familiar with</h4>
@@ -97,4 +97,3 @@ REST APIs, GraphQL, authentication flows, form validation, client-side routing, 
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </div>
-
