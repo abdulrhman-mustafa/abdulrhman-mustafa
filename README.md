@@ -1,9 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+  <!-- Welcome -->
+<h1  align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="left">
-  My name is <strong>Abdulrahman Mustafa</strong> and I'm a <strong>Front-End Developer</strong>
+  <!-- Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Front+End+Developer.">
 </p>
-
 ---
 
 <h2 align="left">About me</h2>
